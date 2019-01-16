@@ -1,0 +1,26 @@
+{
+  "name": "react-native-redux-persist-tree",
+  "version": "0.0.1",
+  "description": "Storage helpers for react native for redux-persist-tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukebrandonfarrell/react-native-redux-persist-tree.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-redux-persist-tree",
+    "persist",
+    "async",
+    "storage"
+  ],
+  "author": "Luke Brandon Farrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukebrandonfarrell/react-native-redux-persist-tree/issues"
+  },
+  "homepage": "https://github.com/lukebrandonfarrell/react-native-redux-persist-tree#readme"
+}
