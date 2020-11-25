@@ -1,5 +1,5 @@
 {
-  "name": "react-native-redux-persist-tree",
+  "name": "react-native-redux-async-storage",
   "version": "0.0.1",
   "description": "Storage helpers for react native for redux-persist-tree",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lukebrandonfarrell/react-native-redux-persist-tree.git"
+    "url": "git+https://github.com/lukebrandonfarrell/react-native-redux-async-storage.git"
   },
   "keywords": [
     "react-native",
