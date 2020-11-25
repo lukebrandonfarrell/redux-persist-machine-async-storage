@@ -1,6 +1,6 @@
 {
   "name": "react-native-redux-async-storage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Storage helpers for react native for redux-persist-tree",
   "main": "index.js",
   "repository": {
