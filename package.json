@@ -17,6 +17,9 @@
     "async",
     "storage"
   ],
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "1.13.2"
+  },
   "author": "Luke Brandon Farrell",
   "license": "MIT",
   "bugs": {

@@ -4,7 +4,7 @@
  * loading and saving to the async storage.
  */
 
-import { AsyncStorage } from "react-native";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 
 /**
  * Loads the state from a key
