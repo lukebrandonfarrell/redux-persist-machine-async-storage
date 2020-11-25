@@ -1,4 +1,4 @@
-# react-native-redux-persist-tree
+# react-native-redux-async-storage
 
 **NOTICE: This library is not ready for production. Use at your own discretion.**
 
