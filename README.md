@@ -1,6 +1,6 @@
 # react-native-redux-async-storage
 
-**NOTICE: This library is not ready for production. Use at your own discretion.**
+This is a storage helper for [redux-persist-machine](https://github.com/aspect-apps/redux-persist-machine), using React Native's Async Storage.
 
 ## Authors
 
