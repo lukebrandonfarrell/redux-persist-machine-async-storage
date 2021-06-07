@@ -22,5 +22,20 @@
   "bugs": {
     "url": "https://github.com/aspect-apps/redux-persist-machine-async-storage/issues"
   },
-  "homepage": "https://github.com/aspect-apps/redux-persist-machine-async-storage#readme"
+  "homepage": "https://github.com/aspect-apps/redux-persist-machine-async-storage#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
+    "husky": "^6.0.0",
+    "lint-staged": "^11.0.0",
+    "pinst": "^2.1.6",
+    "prettier": "^2.3.1",
+    "semantic-release": "^17.4.3"
+  },
+  "scripts": {
+    "prepublishOnly": "pinst --disable",
+    "postpublish": "pinst --enable",
+    "pre-commit": "lint-staged",
+    "postinstall": "husky install"
+  }
 }
